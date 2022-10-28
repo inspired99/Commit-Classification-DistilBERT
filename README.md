@@ -1,2 +1,3 @@
-# Commit-Classification-DistilBERT
-Multilabel Commit Classification using DistilBERT 
+## Multilabel Commit Classification using DistilBERT 
+
+Test Task for JB_ML_SE "Autocompletion commit messages"
