@@ -1,6 +1,6 @@
 ## Multilabel Commit Classification using DistilBERT Task for Application to JetBrains internship 
 
-The task is based on this [article](https://www.researchgate.net/profile/Mohamed-Wiem-Mkaouer-2/publication/348228961_Multi-label_Classification_of_Commit_Messages_using_Transfer_Learning/links/61eacfc2c5e3103375ae596d/Multi-label-Classification-of-Commit-Messages-using-Transfer-Learning.pdf).
+The task is based on this [article](https://www.researchgate.net/profile/Mohamed-Wiem-Mkaouer-2/publication/348228961_Multi-label_Classification_of_Commit_Messages_using_Transfer_Learning/links/61eacfc2c5e3103375ae596d/Multi-label-Classification-of-Commit-Messages-using-Transfer-Learning.pdf). The goal is to implement approach proposed by authors of the article (or other NLP methods) and try different ideas to improve it.
 
 ### Task for Project on Autocompletion of commit messages
 
